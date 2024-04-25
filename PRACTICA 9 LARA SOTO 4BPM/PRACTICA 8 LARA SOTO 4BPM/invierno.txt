@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>INVIERNO</title>
+</head>
+<body background="" style="background-repeat:no repeat; backgound=size:100%; background-attachment:fixed;">
+<center><h1><font face="cambria" color="darkblue" size"7">INVIERNO</font></h1></center>
+<img src="" align="right">
+<h3 align="left"><font face="didot" color="white"="3">INFORMACION</font></h3><br>
+<ol style="text-align=right; list-style-position:inside;">
+<h3 align=right><font face="book antiqua" color="yf2919" size"4">ANIMALES CARACTERISTICOS DE ESTA ESTACION<br></font></h3>
+<img src="" width="310" height="175" align="left">
+<align="right" font face="cambria" color="darkgreen" size="4">
+<li>OSO POLAR</li>
+<li>ZORRO ARTICO</li>
+<li>RENOS Y CARIABUES</li>
+<li>PINGUINO EMPERADOR</li>
+<li>BUHO NIVAL</li></ol></font><br>
+<ul style="text-align=left; list-style-position:inside;">
+<h3><font face="book antiqua" color="370187" size"4">PAISES DONDE MAS DESTACA LA ESTACION</font></h3>
+<img src=""> width="330" height="185" align="right">
+<font face="cambria" size="4">
+<li>CANADA</li>
+<li>RUSIA</li>
+<li>NORUEGA</li>
+<li>SUECIA</li>
+<li>FINLANDIA</li>
+<h3><font face="calibri" size="3">CONSIDERANDO LA ANTARTIDA COMO EL CONTINENTE MAS FRIO DEL MUNDO</font></h3></ul></font>
+<br>
+<h5><align="right"><font face="book antiqua" color="white" size"4">CARACTERISTICAS DE LA ESTACION</font></h5>
+<table align="right border="4" style="background-color=#E8E8E8; border-color:darkgrey; border-spacing:0; text-align:center;">
+<tr>
+<td height="50px">BAJAS TEMPERATURAS</td>
+<td>PRECIPITACION DE NIEVE</td>
+</tr>
+<tr>
+<td height="70px">DIAS CORTOS Y NOCHES MAS LARGAS</td>
+<td>FORMACION DE HELADAS</td>
+</tr>
+<tr>
+<td height="70px">HIBERNACION DE ANIMALES</td>
+<td>EL DESCENSO DE LA RADIACION SOLAR MERMA<br>LA CAPACIDAD DE CRECIMIENTO DE LAS PLANTAS</td>
+</tr>
+</table>
+<h5><font face="book antiqua" color="white" size="4">COMO SE FORMA LA NIEVE?</font></h5>
+<video src="" controls align="left" width="350" height="200"></video><br><br><br>
+<center><a href="" target="_blank" style="color:#840d40;">DOCUMENTAL SOBRE EL INVIERNO</a></center><br>
+<h6 align="right">FRASE:<br>ALUMN@:LARA SOTO ADILENE<br>PROFESORA:BERTHA PEREZ<br>GRUPO:4BPM<br>MATERIA:DESARROLLA APLICACIONES QUE SE EJECUTAN EN EL CLIENTE/SERVIDOR</h6>
+<hr>
+</body>
+</html>
+

@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Invierno</title>
+<body background="J:\WEB LARA SOTO ADILENE 4BPM\PRACTICA 8 LARA SOTO 4BPM\IMAGENES/fondoinvierno.jpg" style="background-repeat:no-repeat;background-size:100%;background-attachment:fixed;">
+<center><h1><font face="cambria" color="lightcyan" size="7">Invierno</font></h1>
+</center>
+<div>
+<img src="J:\WEB LARA SOTO ADILENE 4BPM\PRACTICA 8 LARA SOTO 4BPM\IMAGENES/zorro.jpg" width="250" height="190" style="float:right;">
+</div>
+<br>
+<h3 align="left"><font face="didot" color="lightblue" size="5">
+El invierno es una de las cuatro estaciones de las zonas templadas.<br>
+Sigue al otoño y precede a la primavera. Esta estación se caracteriza<br>
+por días más cortos, noches más largas y temperaturas más bajas a medida<br>
+que nos alejamos de la línea ecuatorial.
+</font></h3><br>
+<ol style="text-align:right;list-style-position:inside;">
+<br>
+<h3 align="right"><font face="bookantiqua" color="lightpink" size="5">Animales 
+caracteristicos de la estacion<br></font></h3>
+<div>
+<img src="J:\WEB LARA SOTO ADILENE 4BPM\PRACTICA 8 LARA SOTO 4BPM\IMAGENES/copo.jpg" width="250" height="190" style="float:left;">
+</div>
+<font face="cambria" color="white" size="4">
+<li>Oso Polar</li>
+<li>Zorro Artico</li>
+<li>Renos</li>
+<li>Pinguino emperador</li>
+<li>Buho Nival</li>
+</ol></font><br>
+<ul style="text-align:left;list-style-position:inside">
+<br>
+<h3><font face="bookantiqua" color="lightgreen" size="5">Paises donde mas 
+destaca la estacion</font></h3>
+<div>
+<img src="J:\WEB LARA SOTO ADILENE 4BPM\PRACTICA 8 LARA SOTO 4BPM\IMAGENES/pino.jpg" width="250" height="190" style="float:right;">
+</div>
+<font face="cambria" color="white" size="4">
+<li>Canada</li>
+<li>Rusia</li>
+<li>Suecia</li>
+<li>Noruega</li>
+<li>Finlandia</li>
+<h3><font face="calibri" color="pink" size="4">Considerando a la antartida como el continente mas frio del mundo</font></h3></ul><br>
+<h5 align="right"><font face="book antiqua" color="yellow" size="5">Caracteristicas de la estacion</font></h5>.
+<table border="4" font color="rojo"; borde-color:blue; border-spacing:0;text-align="left"; align="right">
+<tr>
+<td height="50 px">Bajas temperaturas</td>
+<td>Precipitacion de nieve</td>
+</tr>
+<tr>
+<td height="70 px">Dias cortos y noches mas largas<br>por la inclinacion axial<br>de la tierra</td>
+<td>Formacion de heladas</td>
+</tr>
+<tr>
+<td height="70 px">Hibernacion de animales</td>
+<td>El decenso en la radiacion solar merma<br>la capacidad de crecimiento de las plantas</td>
+</tr>
+</table>
+<h5><font face="book antiqua" color="lightgreen" size="6">Como se forma la nieve?</font><br>
+<div>
+<video src="J:\WEB LARA SOTO ADILENE 4BPM\PRACTICA 8 LARA SOTO 4BPM\VIDEOS/nieve.mp4" width="300" height="300"></video>
+</div>
+<br><br><br>
+<center><a href="https://www.youtube.com/watch?v=cUBp8x6GEho" target="_blanck" style-color="lightblue">Documental sobre el invierno y sus animales</a>
+</center><br>
+<h6 align="right">frase:<br>Alumna:yo vv<br>Grupo:4bpm<br>Prof.Bertha Perez<br>Materia:DAS Y DAC</h6>
+<hr>
+</body>
+</html>
